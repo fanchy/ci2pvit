@@ -1,0 +1,1 @@
+python tlt_main.py ../../dataset/ImageNet_dataset/ --img-size 256 --model ci2pvit_imagenet --num-classes 1000 -b 16 
